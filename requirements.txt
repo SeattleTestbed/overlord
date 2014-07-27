@@ -1,4 +1,0 @@
--e git+https://github.com/BuildSeash/overlord/#egg=overlord
-
-
-
