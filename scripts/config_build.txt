@@ -5,5 +5,5 @@ DEPENDENCIES/repy_v2/*
 DEPENDENCIES/seattlelib_v2/*
 DEPENDENCIES/nodemanager/*
 DEPENDENCIES/common/*
-DEPENDENCIES/common/utf/*
 # Tests
+test DEPENDENCIES/utf/*
